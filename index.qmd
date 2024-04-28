@@ -1,0 +1,26 @@
+---
+pagetitle: "Zoe Walker | About"
+title: "Zoe Walker"
+subtitle: ""
+  
+about:
+  template: trestles
+  id: about-block
+  image: "img/my_image.png"
+  links:
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/zawalker
+    - icon: linkedin
+      href: https://www.linkedin.com/in/zoeawalker/
+    - icon: envelope
+      aria-label: email
+      href: "mailto:mail.zawalker@cpp.edu"
+---
+
+::: {#about-block}
+:::
+
+# Hello there!
+
+About page info

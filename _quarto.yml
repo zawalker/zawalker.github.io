@@ -1,0 +1,69 @@
+# website settings
+website:
+  title: "Zoe Walker"
+  description: ""   # Add brief description
+  image: img/my_image.png
+
+  favicon: img/favicon.png
+
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: img/logo.png
+
+    # sub-pages
+    left:
+      - text: About
+        icon: person-circle
+        href: index.qmd
+      - text: CV
+        icon: file-earmark-text-fill
+        href: cv/index.qmd
+      - text: Projects
+        icon: puzzle-fill
+        href: projects/index.qmd
+
+
+    # social media and email
+    right:
+      - icon: github
+        href: https://github.com/zawalker
+      - icon: linkedin
+        href: https://www.linkedin.com/in/zoeawalker/
+      - icon: envelope
+        href: "mailto:mail.zawalker@cpp.edu"
+
+
+  search:
+    location: navbar
+    type: textbox
+  page-footer:
+    left: ""
+    center: "made with [Quarto](https://quarto.org) "
+    right: ""
+
+project:
+  type: website
+  output-dir: docs
+
+  preview:
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme:
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
