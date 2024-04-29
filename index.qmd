@@ -4,7 +4,7 @@ title: "Zoe Walker"
 subtitle: ""
   
 about:
-  template: trestles
+  template: jolla
   id: about-block
   image: "img/my_image.png"
   links:
