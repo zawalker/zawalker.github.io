@@ -1,7 +1,7 @@
 ---
 pagetitle: "Zoe Walker | About"
 title: "Zoe Walker"
-subtitle: ""
+subtitle: "Aspiring data scientist"
   
 about:
   template: jolla
@@ -27,10 +27,10 @@ I am currently a Biological Sciences graduate student at Cal Poly Pomona in Dr. 
 
 ## Education
 
-**M.S. in Biological Science, 2023-Present**
+**M.S. in Biological Science, 2023 - Present**
 
 California State Polytechnic University, Pomona
 
-**B.S. in Biotechnology, minor in Chemistry, 2022**
+**B.S. in Biotechnology minor in Chemistry, 2022**
 
 California State Polytechnic University, Pomona

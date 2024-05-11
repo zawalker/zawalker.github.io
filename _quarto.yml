@@ -1,7 +1,6 @@
 # website settings
 website:
-  title: "Zoe Walker"
-  description: ""   # Add brief description
+ # title: "Zoe Walker"
   image: img/my_image.png
 
   favicon: img/favicon.png
