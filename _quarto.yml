@@ -58,7 +58,7 @@ execute:
 format:
   html:
     fontsize: 1.1em
-    theme:
+    theme: ######################### Can add light and dark options if wanted
       - pulse
       - html/styles.scss
     toc: false

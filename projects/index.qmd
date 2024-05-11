@@ -1,5 +1,19 @@
 ---
-title: Projects
+title: Projects (Coming Soon!)
 ---
 
-# Coming Soon!
+## Project #1 
+
+Project description
+
+------------------------------------------------------------------------
+
+## Project #2
+
+Project description
+
+------------------------------------------------------------------------
+
+## Project #3
+
+Project description

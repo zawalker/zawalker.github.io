@@ -21,6 +21,16 @@ about:
 ::: {#about-block}
 :::
 
-# Hello there!
+# Hello there! Thank you for visiting my website! 
 
-About page info
+I am currently a Biological Sciences graduate student at Cal Poly Pomona in Dr. Juanita Jellyman’s lab and my thesis project is about understanding the impact of THC on the placenta in a mouse model. I am interested in pursuing a career in the biological data science field.
+
+## Education
+
+**M.S. in Biological Science, 2023-Present**
+
+California State Polytechnic University, Pomona
+
+**B.S. in Biotechnology, minor in Chemistry, 2022**
+
+California State Polytechnic University, Pomona

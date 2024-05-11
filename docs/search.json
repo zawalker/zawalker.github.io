@@ -2,9 +2,30 @@
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
-    "title": "Projects",
+    "title": "Projects (Coming Soon!)",
     "section": "",
-    "text": "Coming Soon!"
+    "text": "Project description"
+  },
+  {
+    "objectID": "projects/index.html#project-1",
+    "href": "projects/index.html#project-1",
+    "title": "Projects (Coming Soon!)",
+    "section": "",
+    "text": "Project description"
+  },
+  {
+    "objectID": "projects/index.html#project-2",
+    "href": "projects/index.html#project-2",
+    "title": "Projects (Coming Soon!)",
+    "section": "Project #2",
+    "text": "Project #2\nProject description"
+  },
+  {
+    "objectID": "projects/index.html#project-3",
+    "href": "projects/index.html#project-3",
+    "title": "Projects (Coming Soon!)",
+    "section": "Project #3",
+    "text": "Project #3\nProject description"
   },
   {
     "objectID": "cv/index.html",
@@ -14,10 +35,17 @@
     "text": "Download current CV"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#thank-you-for-visiting-my-website",
+    "href": "index.html#thank-you-for-visiting-my-website",
     "title": "Zoe Walker",
-    "section": "",
-    "text": "Hello there!\nAbout page info"
+    "section": "Thank you for visiting my website! ",
+    "text": "Thank you for visiting my website! \nI am currently a Biological Sciences graduate student at Cal Poly Pomona in Dr. Juanita Jellyman’s lab and my thesis project is about understanding the impact of THC on the placenta in a mouse model. I am interested in pursuing a career in the biological data science field."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Zoe Walker",
+    "section": "Education",
+    "text": "Education\nM.S. in Biological Science, 2023-Present\nCalifornia State Polytechnic University, Pomona\nB.S. in Biotechnology, minor in Chemistry, 2022\nCalifornia State Polytechnic University, Pomona"
   }
 ]
