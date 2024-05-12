@@ -26,26 +26,39 @@ $green:   #118230 !default;
 $teal:    #068194 !default;
 $cyan:    #3093CF !default;
 
-$primary:   $teal!default;
-$secondary: $gray-700 !default;
-$success:   $green !default;
-$info:      $cyan !default;
-$warning:   $orange !default;
-$danger:    $red !default;
-$light:     $gray-400 !default;
-$dark:      $black !default;
+$dustyrose: #f8d3c5!default;
+$pastelpink: #fceee9!default;
+$pastelgreen: #dde6d5!default;
+$sagegreen: #a3b899!default;
+$darksage: #667b68!default;
 
+$white: #FFFFFF;
+$darkgray: #2C2C2C;
+$gray: #949799;
+$lightgray: #E5E5E5;
+$ocean: #05aabb;
+$rust: #bc5441;
+$ltcoral: #ffe1df;
+$raspberry: #872b49;
+$cream: #fcf9f4;
+$rose: #ffb6c1;
 
+$primary: $sagegreen;
+
+// Base document colors
+$navbar-bg: $raspberry; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $ltcoral; // highlight color when hovering over navbar links
+$body-bg: $cream; // page background 
+$body-color: $black; // page text 
 
 // Links
-$link-color: $primary !default;
-$link-decoration: none !default;
-$link-hover-color: $red !default;
+$link-color: $rose; // hyperlinks 
 $link-hover-decoration: underline !default;
 
 // Footer
-$footer-bg: $gray-900 !default;
-$footer-fg: $gray-300 !default;
+$footer-bg: $rose; // footer 
+$footer-fg: $white;
 
 // Inline code
 $code-bg: $gray-200 !default;

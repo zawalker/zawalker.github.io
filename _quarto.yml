@@ -61,6 +61,7 @@ format:
       - pulse
       - html/styles.scss
     toc: false
+    page-layout: full
     code-link: true
     anchor-sections: true
     fig-cap-location: margin

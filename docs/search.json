@@ -35,10 +35,17 @@
     "text": "Download current CV"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zoe Walker",
+    "section": "",
+    "text": "My name is Zoe Walker and I am currently a Biological Sciences graduate student at Cal Poly Pomona in Dr. Juanita Jellyman’s lab. My thesis project is about understanding the impact of THC on the placenta in a mouse model. I am interested in pursuing a career in the biological data science field.\n\n\nM.S. in Biological Science, 2023 - Present\nCalifornia State Polytechnic University, Pomona\nB.S. in Biotechnology minor in Chemistry, 2022\nCalifornia State Polytechnic University, Pomona"
+  },
+  {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Zoe Walker",
-    "section": "Education",
-    "text": "Education\nM.S. in Biological Science, 2023 - Present\nCalifornia State Polytechnic University, Pomona\nB.S. in Biotechnology minor in Chemistry, 2022\nCalifornia State Polytechnic University, Pomona"
+    "section": "",
+    "text": "M.S. in Biological Science, 2023 - Present\nCalifornia State Polytechnic University, Pomona\nB.S. in Biotechnology minor in Chemistry, 2022\nCalifornia State Polytechnic University, Pomona"
   }
 ]

@@ -1,12 +1,13 @@
 ---
 pagetitle: "Zoe Walker | About"
 title: "Zoe Walker"
-subtitle: "Aspiring data scientist"
+subtitle: "Aspiring biological data scientist"
   
 about:
-  template: jolla
   id: about-block
+  template: trestles
   image: "img/my_image.png"
+  image-shape: rounded
   links:
     - icon: github
       aria-label: GitHub
@@ -19,11 +20,9 @@ about:
 ---
 
 ::: {#about-block}
-:::
+# Hello there!
 
-# Hello there! Thank you for visiting my website! 
-
-I am currently a Biological Sciences graduate student at Cal Poly Pomona in Dr. Juanita Jellyman’s lab and my thesis project is about understanding the impact of THC on the placenta in a mouse model. I am interested in pursuing a career in the biological data science field.
+My name is Zoe Walker and I am currently a Biological Sciences graduate student at Cal Poly Pomona in Dr. Juanita Jellyman’s lab. My thesis project is about understanding the impact of THC on the placenta in a mouse model. I am interested in pursuing a career in the biological data science field.
 
 ## Education
 
@@ -34,3 +33,4 @@ California State Polytechnic University, Pomona
 **B.S. in Biotechnology minor in Chemistry, 2022**
 
 California State Polytechnic University, Pomona
+:::
