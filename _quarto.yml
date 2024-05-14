@@ -1,8 +1,7 @@
 # website settings
 website:
- # title: "Zoe Walker"
+  title: "Zoe Walker"
   image: img/my_image.png
-
   favicon: img/favicon.png
 
   # start of the navigation bar at the top of the website
@@ -57,9 +56,10 @@ execute:
 format:
   html:
     fontsize: 1.1em
-    theme: ######################### Can add light and dark options if wanted
+    theme:
       - pulse
       - html/styles.scss
+    mainfont: Libre Baskerville
     toc: false
     page-layout: full
     code-link: true

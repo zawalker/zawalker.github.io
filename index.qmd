@@ -22,7 +22,7 @@ about:
 ::: {#about-block}
 # Hello there!
 
-My name is Zoe Walker and I am currently a Biological Sciences graduate student at Cal Poly Pomona in Dr. Juanita Jellyman’s lab. My thesis project is about understanding the impact of THC on the placenta in a mouse model. I am interested in pursuing a career in the biological data science field.
+My name is Zoe Walker and I am currently a Biological Sciences graduate student at California State Polytechnic University, Pomona in Dr. Juanita Jellyman’s lab. My thesis project is about understanding the impact of THC on the placenta in a mouse model. I am interested in pursuing a career in the biological data science field.
 
 ## Education
 
